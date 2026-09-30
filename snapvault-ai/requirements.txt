@@ -1,0 +1,8 @@
+torch
+transformers
+onnxruntime
+numpy
+langchain
+faiss-cpu
+pypdf
+streamlit
